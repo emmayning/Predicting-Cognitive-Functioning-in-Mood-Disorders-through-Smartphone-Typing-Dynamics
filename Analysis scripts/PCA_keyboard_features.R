@@ -17,7 +17,6 @@ conflicts_prefer(dplyr::select)
 conflicts_prefer(dplyr::lag)
 conflicts_prefer(dplyr::lead)
 
-setwd("C:/Users/ademos/Box/UnMASCK_5-2023/Analysis_Scripts_5-2023/Alex_Analyses/Window_Approach")
 
 #######################
 ### PCA ###############
